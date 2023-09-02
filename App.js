@@ -85,18 +85,22 @@ const styles = StyleSheet.create({
   },
   headerText: {
     fontSize: 24,
+    color: "red",
   },
   timerText: {
     fontSize: 48,
+    color: "green",
   },
   buttonContainer: {
     flexDirection: "row",
     marginTop: 20,
+    backgroundColor: "yellow",
   },
   button: {
     backgroundColor: "#DDDDDD",
     padding: 10,
     margin: 10,
+    color: "purple",
   },
 });
 

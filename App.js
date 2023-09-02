@@ -97,10 +97,9 @@ const styles = StyleSheet.create({
     backgroundColor: "yellow",
   },
   button: {
-    backgroundColor: "#DDDDDD",
+    backgroundColor: "pink",
     padding: 10,
     margin: 10,
-    color: "purple",
   },
 });
 
